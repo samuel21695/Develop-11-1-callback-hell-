@@ -1,3 +1,3 @@
 setTimeout(function() {
-  console.log("첫번쨰 함수");
-})
+  console.log("첫번째 함수");
+}, 1000)
